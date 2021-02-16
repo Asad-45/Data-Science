@@ -18,7 +18,9 @@ This pixels columns provide all the necessary information related to the image c
 The final Outcome of this project is 'submission.csv' file which has the predict label columns genreated from the pixel columns present in 'test.csv' file .
 
 ## PROJECT FLOW
-![Project flow]()
+
+![](https://user-images.githubusercontent.com/62840804/108062560-fba53d80-707f-11eb-97f3-6621903c39a8.png)
+
 
 ## HOW TO RUN THE  CODE
 _This project is runs in Jupyter Envirnonment._
